@@ -116,15 +116,16 @@ through a centralized workflow.
 <div align="center">
 
 <img 
-  height="180em" 
-  src="https://github-readme-stats.vercel.app/api?username=FuumaKowa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=ffffff" 
-  alt="FuumaKowa GitHub Stats"
+  src="https://github-readme-streak-stats.herokuapp.com?user=FuumaKowa&theme=tokyonight&hide_border=true&background=0D1117" 
+  alt="GitHub Streak"
 />
+
+<br><br>
 
 <img 
   height="180em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuumaKowa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=ffffff" 
-  alt="FuumaKowa Top Languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuumaKowa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" 
+  alt="Top Languages"
 />
 
 </div>
