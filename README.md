@@ -115,12 +115,19 @@ through a centralized workflow.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FuumaKowa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img 
+  height="180em" 
+  src="https://github-readme-stats.vercel.app/api?username=FuumaKowa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=ffffff" 
+  alt="FuumaKowa GitHub Stats"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuumaKowa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img 
+  height="180em" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuumaKowa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=ffffff" 
+  alt="FuumaKowa Top Languages"
+/>
 
 </div>
-
 ---
 
 ## Philosophy
