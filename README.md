@@ -116,17 +116,19 @@ through a centralized workflow.
 <div align="center">
 
 <img 
-  src="https://github-readme-streak-stats.herokuapp.com?user=FuumaKowa&theme=tokyonight&hide_border=true&background=0D1117" 
-  alt="GitHub Streak"
+  src="https://streak-stats.demolab.com?user=FuumaKowa&theme=tokyonight&hide_border=true&background=0D1117" 
+  alt="FuumaKowa GitHub Streak"
 />
 
-<br><br>
+</div>
 
-<img 
-  height="180em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuumaKowa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" 
-  alt="Top Languages"
-/>
+---
+
+## Languages I Work With
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp" />
 
 </div>
 ---
